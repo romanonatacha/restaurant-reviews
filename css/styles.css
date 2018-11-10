@@ -377,12 +377,22 @@ nav h1 a {
     font-size: 16pt;
   }
 
+  #restaurants-list {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+  }
+
   #restaurants-list li {
-    width: 47%;
+    width: 30%;
     float: left;
   }
   #restaurants-list li a {
     font-size: 16pt;
   }
-  
 } 
