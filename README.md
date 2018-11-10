@@ -3,7 +3,7 @@ Restaurant Reviews App
 
 ## Description
 
-* Project created as part of the Udacity Front-End Developer Nanodegree.
+Project created as part of the Udacity Advanced Web Front-End Nanodegree.
 
 ## Project Instructions
 
@@ -11,7 +11,7 @@ In this project, a static webpage that lacks accessibility is given to be conver
 
 ## View the website
 
-[https://romanonatacha.github.io/restaurant-reviews]
+https://romanonatacha.github.io/restaurant-reviews
 
 ## Run the Application localy
 
@@ -33,7 +33,11 @@ npm install
 
 * In the project folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
 
-* In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with
+* In a terminal, check the version of Python you have:
+```
+python -V
+```
+If you have Python 2.x, spin up the server with
 ```
 python -m SimpleHTTPServer 8000
 ```
